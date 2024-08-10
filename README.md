@@ -28,6 +28,6 @@
   <li>Download project zip > <a href="https://github.com/JustRals/fit.ai/archive/refs/heads/main.zip">Download</a></li>
   <li>Put files from zip to your hosting or localhost</li>
   <li>Replace <b><i>"YOUR_API_KEY"</i></b> in dashboard.php line 60, with your own gemini api key, which you can get here > <a href="https://ai.google.dev/">Gemini api key</a></li>
-  <li>Ready!</li>
+  <li>Ready</li>
 </ol>
 <hr>
