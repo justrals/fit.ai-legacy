@@ -34,7 +34,7 @@ if (!isset($_SESSION['user'])) {
                             <br>
                             <input type="number" id="height" name="height" min="50" max="300" placeholder="Height (cm)" required>
                             <br>
-                            <button id="submit" type="submit" class="button button--light">Generate Fitness Plan</button>
+                            <button id="submit" type="submit" class="button button--light">Generate Plan</button>
                         </form>
                     </div>
                     <div class="right">
